@@ -255,6 +255,7 @@ if cognitive_impedance > 1.5:
             
     return  # Interrupt the tick so the wave can reconfigure
 Here’s how this process looks in real execution logs of my core:
+<img width="2559" height="1391" alt="image" src="https://github.com/user-attachments/assets/56f3e98d-d4af-4a56-987f-1536a740eeaf" />
 
 text
 
